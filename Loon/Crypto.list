@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.im
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.gg
 DOMAIN-SUFFIX,bnappzh.co
 DOMAIN-SUFFIX,bnappzh.com
 DOMAIN-SUFFIX,bnbstatic.com
@@ -73,16 +74,19 @@ DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,bnappzh.mobi
 DOMAIN-SUFFIX,bsc.getblock.io
 DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,binancecnt.com
 PROCESS-NAME,Binance.exe
 DOMAIN-KEYWORD,binance
 
 # > bybit
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bycsi.org
 PROCESS-NAME,Bybit.exe
 
 # > Huobi
@@ -112,7 +116,7 @@ DOMAIN-KEYWORD,huobi
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
 PROCESS-NAME,OKX.exe
-DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,okx.com
 
 # > asproex
 DOMAIN-SUFFIX,asproex.com
@@ -126,6 +130,11 @@ DOMAIN-SUFFIX,bitflyer.jp
 DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
 DOMAIN-SUFFIX,bitsquare.io
+
+# > bitmart
+DOMAIN-SUFFIX,bitmart.com
+DOMAIN-SUFFIX,bitmart.site
+DOMAIN-KEYWORD,bitmart
     
 # > coinone
 DOMAIN-SUFFIX,coinone.co.kr
