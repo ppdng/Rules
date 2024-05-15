@@ -115,8 +115,10 @@ DOMAIN-KEYWORD,huobi
 # > OKX
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
-PROCESS-NAME,OKX.exe
+DOMAIN-SUFFIX,d1a9ug9i3w9ke0.cloudfront.net
+DOMAIN-SUFFIX,d2tbe9c16nz8ju.cloudfront.net
 DOMAIN-KEYWORD,okx.com
+PROCESS-NAME,OKX.exe
 
 # > asproex
 DOMAIN-SUFFIX,asproex.com
