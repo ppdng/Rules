@@ -77,6 +77,8 @@ DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,api.saasexch.cc
 DOMAIN-SUFFIX,api.saasexch.io
+DOMAIN-SUFFIX,api.saasexch.com
+DOMAIN-SUFFIX,yingwangtech.cloud
 PROCESS-NAME,Binance.exe
 DOMAIN-KEYWORD,binance
 
