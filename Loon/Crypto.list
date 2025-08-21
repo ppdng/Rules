@@ -87,10 +87,13 @@ DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bycsi.org
 PROCESS-NAME,Bybit.exe
 
