@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,api.saasexch.cc
 DOMAIN-SUFFIX,api.saasexch.io
 DOMAIN-SUFFIX,api.saasexch.com
+DOMAIN-SUFFIX,edge-api.saasexch.com
 DOMAIN-SUFFIX,yingwangtech.cloud
 DOMAIN-SUFFIX,app-measurement.com
 PROCESS-NAME,Binance.exe
