@@ -36,6 +36,10 @@ DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,boba.network
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,msx.com
+DOMAIN-SUFFIX,mystonks.org
+DOMAIN-SUFFIX,hyperliquid.xyz
 
 # > Binance
 DOMAIN-SUFFIX,binance.cc
@@ -325,7 +329,13 @@ DOMAIN-SUFFIX,bitkeep.app
 DOMAIN-SUFFIX,bitkeep.fun
 DOMAIN-SUFFIX,bitkeep.asia
 DOMAIN-SUFFIX,bitkeep.file
+DOMAIN-SUFFIX,bitgetapps.com
+DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bgstatic.com
+DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitapi.vip
+DOMAIN-SUFFIX,bitverse.zone
+DOMAIN-SUFFIX,bgportable.com
 
 # > Mexc
 DOMAIN-SUFFIX,mexc.com
