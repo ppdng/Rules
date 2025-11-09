@@ -318,6 +318,15 @@ DOMAIN-SUFFIX,trustwalletapp.com
 DOMAIN-SUFFIX,gate.ac
 DOMAIN-SUFFIX,gate.io
 
+# > Bitget
+DOMAIN-SUFFIX,bitkeep.biz
+DOMAIN-SUFFIX,bitkeep.top
+DOMAIN-SUFFIX,bitkeep.app
+DOMAIN-SUFFIX,bitkeep.fun
+DOMAIN-SUFFIX,bitkeep.asia
+DOMAIN-SUFFIX,bitkeep.file
+DOMAIN-SUFFIX,bitapi.vip
+
 # > Mexc
 DOMAIN-SUFFIX,mexc.com
 
